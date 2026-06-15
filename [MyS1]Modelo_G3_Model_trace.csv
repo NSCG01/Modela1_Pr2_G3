@@ -1,0 +1,6 @@
+Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
+0.8763956405802722;DefaultEntity.29;Model;7.ReposicionBujias;"[Assign] AssignSumarInventarioBujias
+";Unable to get value of property 'Assign.Assignments[1].AssignmentsNewValue'.
+0.8763956405802722;DefaultEntity.29;Model;7.ReposicionBujias;"[Assign] AssignSumarInventarioBujias
+";Referenced definition type 'Model' does not match executing type 'ModelEntity'
+
