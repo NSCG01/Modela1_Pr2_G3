@@ -1,4 +1,4 @@
 Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0.06465127624563748;Producto.71;Model;46.AlmacenAutomatizado_MemberExited;[Assign] Assign1;Data type mismatch in state variable assignment.
-0.06465127624563748;Producto.71;Model;46.AlmacenAutomatizado_MemberExited;[Assign] Assign1;State variable 'Producto.71.ID_Pedido' is of type 'Number' but attempting to assign value '' that is of type 'Any'.
+6,026921444545617;--;--;--;--;The maximum number in system limit for entities of type 'Producto' has been exceeded.
+6,026921444545617;--;--;--;--;Possible causes:
 
