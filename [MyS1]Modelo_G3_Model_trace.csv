@@ -1,4 +1,4 @@
 Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-6,026921444545617;--;--;--;--;The maximum number in system limit for entities of type 'Producto' has been exceeded.
-6,026921444545617;--;--;--;--;Possible causes:
+38,33214391914839;--;--;--;--;The number of active entities in the simulation has exceeded 20.000 objects
+38,33214391914839;--;--;--;--;This may indicate that there is a logic problem in the model which is creating too many entities or is not destroying them. 
 
